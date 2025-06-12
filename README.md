@@ -24,7 +24,7 @@
 ### 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,vscode,xd,figma,ps,linux,androidstudio,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,vscode,cpp,ai,js,figma,androidstudio,postman&theme=dark" />
 </p>
 
 ---
@@ -44,15 +44,15 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 [Chat App (Riverpod)](https://github.com/HashimAzhar)
+#### 🔹 [Chat App (Riverpod)](https://github.com/HashimAzhar/chat_application_Riverpod)
 - A modern real-time chat application built using Flutter and Riverpod.
 - Firebase Auth, Firestore, and Supabase used for data storage and authentication.
 
-#### 🔹 [Shopping App](https://github.com/HashimAzhar)
+#### 🔹 [Shopping App](https://github.com/HashimAzhar/Shopping_App_Firebase_Completed)
 - Integrated with Firebase, Supabase Storage, and Stripe for payments.
 - Built admin panel for order management.
 
-#### 🔹 [News App](https://github.com/HashimAzhar)
+#### 🔹 [News App](https://github.com/HashimAzhar/news_app_Rest_Apis_Completed)
 - Fetches live news using REST API.
 - Clean UI with real-time updates and categories.
 
@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hashim-azhar-29b031314/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>&nbsp;
   <a href="https://www.instagram.com/hashim__azhar/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>&nbsp;
-  <a href="https://www.facebook.com/hashim.sheikh.5891"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>&nbsp;
+  <a href="https://www.facebook.com/hashim.sheikh.5891"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="30" /></a>&nbsp;
   <a href="mailto:hashimmazharr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
 </p>
 
